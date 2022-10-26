@@ -1,0 +1,33 @@
+.perfil{
+    color: rgb(37, 117, 104);
+    height:60% ;
+    float: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif,oionugt 67bytfrc5fcxe44e6e6s3dedeeddde;
+}
+#foto{
+border-radius: 50%;
+border-style: solid;
+border-color: rgb(206, 179, 57);
+margin-top: -60px;
+margin-left: 30%;
+width: 200px;
+height: 200px;
+
+
+}
+#texto{
+    color: rgb(186, 199, 218);
+    padding-left:  90px;
+    padding-top: 5%;
+    font-size: large;
+    
+} 
+.h2,h2{
+    font-size: large;
+    color: rgba(101, 165, 42);
+    
+    
+}
+h1 {
+    color: rgb(42, 165, 79);
+}

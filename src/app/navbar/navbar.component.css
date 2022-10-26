@@ -1,0 +1,12 @@
+.fa-brands.fa-facebook-f{
+    color: rgb(0, 0, 255 );
+    text-decoration: none;
+}
+.fa-solid.fa-user-gear{
+    color: #E9B96E;
+}
+.navbar{
+    background: rgb(115, 10, 253);
+    background: linear-gradient(90deg, rgb(81, 18, 163) 0%, rgb(81, 18, 150) 35%, rgb(81, 18, 224) 100%) !important;
+    text-decoration: none;
+} 
