@@ -1,9 +1,0 @@
-.banner{
-    border-color: rgb(206, 179, 57);
-    border-width: 5px;
-    border-style:solid ;
-    background-image: url(/assets/PROYECTO.png);background-size: 100% 100%;background-repeat: no-repeat;
-    width: 100%;
-    padding-bottom: 400px;
-    opacity: 1;
-}

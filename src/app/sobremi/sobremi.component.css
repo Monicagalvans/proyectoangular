@@ -1,10 +1,16 @@
-.sobre{
-    width: 100%;
-    height: 100%;
-    font-size:x-large;
-    color: rgb(186, 199, 218);
-    padding-top: 2%;
-    padding-left: 300px;
-    margin-top: 25px;
-    
+.titulosobre{
+    margin-top: 10%;
+    font-size: 4rem;
+    color:rgb(115, 10, 253);
+    -webkit-text-stroke: 1px rgb(245, 235, 235);
+}
+.textosobre{
+    font-size: 2.5rem;
+    text-align: center;
+}
+#imgsobre{
+    width: 60%;
+  margin-left: 20%;
+    margin-top: 5%;
+    opacity: .8;
 }
